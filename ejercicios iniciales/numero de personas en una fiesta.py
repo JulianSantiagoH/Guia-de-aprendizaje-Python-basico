@@ -45,3 +45,6 @@ print('Total de mujeres: ',totalm)
 print('Promedio de edad de hombres: ',promedioh)
 print('Promedio de edad de mujeres: ',promediom)
 print('Edad mínima que asistió: ',edadminima)
+
+
+#cambio normal
